@@ -1,5 +1,3 @@
-#include <MS5611.h>
-
 #include <Wire.h>                                 // Стандартная библиотека шины I2C
 #include <MS5611.h>
 MS5611 ms5611;
